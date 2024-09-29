@@ -28,10 +28,6 @@ This repository contains a clone of the UltraEdit website's landing page, focusi
 Clone the repository and open `index.html` in your browser to view the website.
 
 ```bash
-git clone https://github.com/Sanjay-Gopoji![Screenshot 2024-09-29 084728](https://github.com/user-attachments/assets/c289710e-9071-4817-8276-33de19c09ae7)
-![Screenshot 2024-09-29 084702](https://github.com/user-attachments/assets/8afd3c40-aaf9-414e-b85b-6cf65fa323ec)
-![Screenshot 2024-09-29 084638](https://github.com/user-attachments/assets/9af8f297-7ed8-4b30-95e1-ee4cf28e6f3a)
-![Screenshot 2024-09-29 084616](https://github.com/user-attachments/assets/d24ddfbb-18b1-4666-8a09-bc54e6ebc580)
-/UltraEdit-website-clone.git
+git clone https://github.com/Sanjay-Gopoji/UltraEdit-website-clone.git
 cd UltraEdit-website-clone
 open index.html
